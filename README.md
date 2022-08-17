@@ -1,4 +1,4 @@
-<h1 style="align-itens:center";>Jornada Dev EBAC</h1>
+<h1>Jornada Dev EBAC</h1>
 <hr>
 
 <p>A jornada Dev é um programa de 7 dias que conta com a seguinte ementa:</p>
